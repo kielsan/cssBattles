@@ -1,0 +1,10 @@
+<p><p><style>
+  &>*{
+    margin:80 45%120;
+    border:11q solid#4F77FF
+  }
+  p{
+    zoom:5;margin:-6-12 8;
+    height:4
+  }
+  *{background:radial-gradient(1q at 50%60%,#FFF 60px,#25fc
